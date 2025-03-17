@@ -1,5 +1,5 @@
 # EFI for Ryzen 3 3200g with AMD Radeon™ Vega 8 Graphics
-
+![About This Mac](https://github.com/user-attachments/assets/aff4e7af-3d0d-480c-a18b-5dcf4b6e7ac7)
 ## Specifications:
 
 - Motherboard: Gigabyte™ A320M-S2H (rev. 1.x)
